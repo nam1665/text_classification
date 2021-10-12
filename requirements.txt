@@ -1,0 +1,15 @@
+pandas==1.2.3
+numpy==1.20.2
+Werkzeug==0.16.1
+transformers
+torch==1.8.1
+python_box==5.3.0
+fast_bert==1.9.7
+Flask==1.1.2
+sentence_transformers
+tqdm==4.60.0
+Flask_Cors==3.0.10
+flask_restplus==0.13.0
+apex==0.9.10dev
+scikit_learn==0.24.1
+waitress
